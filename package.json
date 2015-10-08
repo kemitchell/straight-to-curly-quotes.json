@@ -1,7 +1,7 @@
 {
   "name": "straight-to-curly-quotes",
   "description": "tests for converters from straight to curly quotes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "keywords": [
     "quotation marks",
