@@ -34,5 +34,13 @@
   {
     "straight": "\"That's a 'magic' sock.\"",
     "curly": "“That’s a ‘magic’ sock.”"
+  },
+  {
+    "straight": "Wecome to A!, B, Inc. (\"B\" or \"Company\") recommends",
+    "curly": "Wecome to A!, B, Inc. (“B” or “Company”) recommends"
+  },
+  {
+    "straight": "Wecome to A!, B, Inc. ('B' or 'Company') recommends",
+    "curly": "Wecome to A!, B, Inc. (‘B’ or ‘Company’) recommends"
   }
 ]
