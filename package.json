@@ -1,8 +1,13 @@
 {
   "name": "straight-to-curly-quotes",
+  "description": "tests for converters from straight to curly quotes",
   "version": "1.0.1",
-  "description": "test for converters from straight to curly quotes",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
-  "repository": "kemitchell/straight-to-curly-quotes.json",
-  "license": "CC0-1.0"
+  "keywords": [
+    "quotation marks",
+    "quotes",
+    "typography"
+  ],
+  "license": "CC0-1.0",
+  "repository": "kemitchell/straight-to-curly-quotes.json"
 }
