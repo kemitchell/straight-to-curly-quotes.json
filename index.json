@@ -1,0 +1,38 @@
+[
+  {
+    "straight": "\"Hello!\"",
+    "curly": "“Hello!”"
+  },
+  {
+    "straight": "ain't",
+    "curly": "ain’t"
+  },
+  {
+    "straight": "ma'am",
+    "curly": "ma’am"
+  },
+  {
+    "straight": "'Twas the night",
+    "curly": "‘Twas the night"
+  },
+  {
+    "straight": "\"Hello,\" said the spider. \"'Shelob' is my name.\"",
+    "curly": "“Hello,” said the spider. “‘Shelob’ is my name.”"
+  },
+  {
+    "straight": "'A', 'B', and 'C' are letters.",
+    "curly": "‘A’, ‘B’, and ‘C’ are letters."
+  },
+  {
+    "straight": "'Oak,' 'elm,' and 'beech' are names of trees. So is 'pine.'",
+    "curl": "‘Oak,’ ‘elm,’ and ‘beech’ are names of trees. So is ‘pine.’"
+  },
+  {
+    "straight": "'He said, \"I want to go.\"' Were you alive in the 70's?",
+    "curly": "‘He said, “I want to go.”’ Were you alive in the 70’s?"
+  },
+  {
+    "straight": "\"That's a 'magic' sock.\"",
+    "curly": "“That’s a ‘magic’ sock.”"
+  }
+]
