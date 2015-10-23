@@ -94,5 +94,25 @@
   {
     "straight": "'70s fashion was weird.",
     "curly": "‘70s fashion was weird."
+  },
+  {
+    "straight": "12\" record, 5'10\" height",
+    "curly": "12″ record, 5′10″ height"
+  },
+  {
+    "straight": "Model \"T2000\"",
+    "curly": "Model “T2000”"
+  },
+  {
+    "straight": "iPad 3's battery life is not great.",
+    "curly": "iPad 3’s battery life is not great."
+  },
+  {
+    "straight": "Book 'em, Danno. Rock 'n' roll. 'Cause 'twas the season.",
+    "curly": "Book ’em, Danno. Rock ’n’ roll. ’Cause ’twas the season."
+  },
+  {
+    "straight": "'85 was a good year. (The entire '80s were.)",
+    "curly": "’85 was a good year. (The entire ’80s were.)"
   }
 ]
